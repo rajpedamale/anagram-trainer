@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Just start the app, visit the link below.
+Choose the length of the words for generating the Anagrams.
+Note: Larger the word, longer it will take to generate.
+
+You can keep choose to see the history of attempts.
+Everytime the `Next word` is clicked, it adds the scramble, word and the attempted word to the history.
+
 ## Available Scripts
 
 In the project directory, you can run:

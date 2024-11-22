@@ -1,0 +1,1 @@
+export { CompletedWords } from "./CompletedWords";
